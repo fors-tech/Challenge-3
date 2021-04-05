@@ -1,0 +1,154 @@
+/****************************TAG SELECTORS****************************/
+body {
+  background-color: #cd757c;
+}
+
+h1 {
+  color: #e1a8ae;
+  display: inline-block;
+  margin: 10px;
+  margin-left: 0;
+  margin-bottom: auto;
+}
+
+h1:hover {
+  color: white;
+  cursor: pointer;
+}
+
+h2 {
+  color: white;
+}
+
+h4 {
+  color: #cd757c;
+  font-family: serif;
+  text-decoration: none;
+}
+
+p {
+  width: 50%;
+  color: white;
+}
+
+/****************************CLASS SELECTORS****************************/
+.Heading {
+  margin-left: 19rem;
+}
+
+
+.Middle {
+
+  margin-left: 19rem;
+  position: static;
+  text-align: left;
+}
+
+.leftside-div {
+  margin-left: 0;
+  position: static;
+  width: 20%;
+  height: 20%;
+  background-color: white;
+
+}
+.leftside {
+  height: 70px;
+  width: 70px;
+  background-color: #e1a8ae;
+  display: inline-flex;
+  position: absolute;
+  left: 15rem;
+  margin-left: 0;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.leftside:hover {
+  background-color: #ecc5c9;
+}
+
+.left-img {
+  height: 15px;
+  width: 15px;
+}
+
+.timer {
+  height: 160px;
+  width: 160px;
+  background-color: #343133;
+  float: left;
+  position: relative;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.temperature {
+  height: 160px;
+  width: 160px;
+  background-color: #2c292a;
+  float: left;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.load {
+  background-color: #1b191a;
+  height: 160px;
+  width: 160px;
+  float: left;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.rightside {
+  height: 70px;
+  width: 70px;
+  background-color: #e1a8ae;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  cursor: pointer;
+}
+
+.rightside:hover {
+  background-color: #ecc5c9;
+}
+
+.right-img {
+  height: 15px;
+  width: 15px;
+}
+
+.start{
+  position: relative;
+  top: 25px;
+  right: 25px;
+  transition: top ease 0.1s;
+}
+
+.start:hover {
+  top: 17px;
+}
+.button {
+	background-color:#000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:14px;
+	padding:10px 60px;
+	text-decoration:none;
+}
+.button:hover {
+	background-color:#d7bde3;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+
+/****************************ID SELECTORS*******************************/

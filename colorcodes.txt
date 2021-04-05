@@ -1,0 +1,13 @@
+Body -                #cd757c
+h2 -                  #cd757c
+White -               #fbfdfd
+Heading when still -  #e1a8ae
+
+
+From Left
+Div 1 still -   #e1a8ae
+Div 2 timer -   #343133
+Div 3 temp -    #2c292a
+Div 4 load -    #1b191a
+Div 5 hovered - #ecc5c9        
+Div 6 start -   #111111
